@@ -4,31 +4,36 @@
       "pattern": "extract_meeting_minutes",
       "description": "A pattern to extract meeting minutes from a text",
       "author": "Chasebank87",
-      "for_models": "gpt-4o, gpt-4-turbo"
+      "for_models": "gpt-4o, gpt-4-turbo",
+      "forked_url": "https://github.com/chasebank87/fabric-patterns"
     },
     "improve_notes": {
       "pattern": "improve_notes",
       "description": "A pattern to improve notes",
       "author": "Chasebank87",
-      "for_models": "gpt-4o, gpt-4-turbo"
+      "for_models": "gpt-4o, gpt-4-turbo",
+      "forked_url": "https://github.com/chasebank87/fabric-patterns"
     },
     "extract_tutorial": {
       "pattern": "extract_tutorial",
       "description": "A pattern to extract tutorials from a text",
       "author": "Chasebank87",
-      "for_models": "gpt-4o, gpt-4-turbo"
+      "for_models": "gpt-4o, gpt-4-turbo",
+      "forked_url": "https://github.com/chasebank87/fabric-patterns"
     },
     "determine_ai_chance": {
       "pattern": "determine_ai_chance",
       "description": "A pattern to determine the chance of AI",
       "author": "Chasebank87",
-      "for_models": "gpt-4o, gpt-4-turbo"
+      "for_models": "gpt-4o, gpt-4-turbo",
+      "forked_url": "https://github.com/chasebank87/fabric-patterns"
     },
     "search_engine": {
       "pattern": "search_engine",
       "description": "A pattern to process taviliy search results",
       "author": "Chasebank87-test",
-      "for_models": "gpt-4o, gpt-4-turbo"
+      "for_models": "gpt-4o, gpt-4-turbo",
+      "forked_url": "https://github.com/chasebank87-test/fabric-patterns"
     }
   }
 }
