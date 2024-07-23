@@ -5,9 +5,9 @@ A custom pattern repository for fabric (Unofficial Fabric Integration plugin for
 # Submittion Instructions
 
 1. Fork the repository
-2. Update the patterns.json file with your pattern(s) in the forked repo
-3. Upload your custom patterns to the patterns folder in the forked repo
+2. Create your own repo to store your patterns (this is the repo you need to enter for pattern_repo)
+3. Update the patterns.json file with your pattern(s) in the forked repo
 4. Create a pull request
 5. Wait for the changes to be merged
-6. Keep your forked repo live, since this is where you will make updates to your shared patterns (without pull requests)
+6. Changes to your patterns will not require additional pull requests
 
