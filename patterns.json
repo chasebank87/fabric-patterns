@@ -1,27 +1,28 @@
-{"patterns": {
+{
+  "patterns": {
     "extract_meeting_minutes": {
-        "pattern": "extract_meeting_minutes",
-        "description": "A pattern to extract meeting minutes from a text",
-        "author": "Chasebank87",
-        "for_models": "gpt-4o, gpt-4-turbo"
+      "pattern": "extract_meeting_minutes",
+      "description": "A pattern to extract meeting minutes from a text",
+      "author": "Chasebank87",
+      "for_models": "gpt-4o, gpt-4-turbo"
+    },
+    "improve_notes": {
+      "pattern": "improve_notes",
+      "description": "A pattern to improve notes",
+      "author": "Chasebank87",
+      "for_models": "gpt-4o, gpt-4-turbo"
+    },
+    "extract_tutorial": {
+      "pattern": "extract_tutorial",
+      "description": "A pattern to extract tutorials from a text",
+      "author": "Chasebank87",
+      "for_models": "gpt-4o, gpt-4-turbo"
+    },
+    "determine_ai_chance": {
+      "pattern": "determine_ai_chance",
+      "description": "A pattern to determine the chance of AI",
+      "author": "Chasebank87",
+      "for_models": "gpt-4o, gpt-4-turbo"
     }
-  },
-  "improve_notes": {
-    "pattern": "improve_notes",
-    "description": "A pattern to improve notes",
-    "author": "Chasebank87",
-    "for_models": "gpt-4o, gpt-4-turbo"
-  },
-  "extract_tutorial": {
-    "pattern": "extract_tutorial",
-    "description": "A pattern to extract tutorials from a text",
-    "author": "Chasebank87",
-    "for_models": "gpt-4o, gpt-4-turbo"
-  },
-  "determine_ai_chance": {
-    "pattern": "determine_ai_chance",
-    "description": "A pattern to determine the chance of AI",
-    "author": "Chasebank87",
-    "for_models": "gpt-4o, gpt-4-turbo"
   }
 }
