@@ -199,11 +199,11 @@ Extract and list in markdown format all the passwords inside of the rough notes.
 Important Prompt Instructions for Credentials
 
 Example Data
-- celder3: ThisisSecure! (integra ad account)
+- johndoe: ThisisSecure! (integra ad account)
 - Walked to the lake, and fed ducks
 
 Example Generation
-- **celder3** 
+- **johndoe** 
 	- Password: ThisisSecure!
         - Company: Integra
         - Device: Active Directory
