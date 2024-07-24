@@ -33,7 +33,7 @@
       "description": "A pattern to process taviliy search results",
       "author": "Chasebank87-test",
       "for_models": "gpt-4o, gpt-4-turbo",
-      "pattern_repo": "chasebank87-test/dwadawdawd"
+      "pattern_repo": "chasebank87-test/my_fabric_patterns"
     },
     "humanize_ai": {
       "pattern": "humanize_ai",
